@@ -1,0 +1,45 @@
+relationutils package
+=====================
+
+Submodules
+----------
+
+relationutils.graph module
+--------------------------
+
+.. automodule:: relationutils.graph
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+relationutils.matrix module
+---------------------------
+
+.. automodule:: relationutils.matrix
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+relationutils.relation module
+-----------------------------
+
+.. automodule:: relationutils.relation
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+relationutils.tree module
+-------------------------
+
+.. automodule:: relationutils.tree
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: relationutils
+   :members:
+   :undoc-members:
+   :show-inheritance:

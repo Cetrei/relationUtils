@@ -1,27 +1,10 @@
 .. These are examples of badges you might want to add to your README:
    please update the URLs accordingly
 
-    .. image:: https://api.cirrus-ci.com/github/<USER>/relationUtils.svg?branch=main
+.. image:: https://api.cirrus-ci.com/github/Cetrei/relationUtils.svg?branch=main
         :alt: Built Status
-        :target: https://cirrus-ci.com/github/<USER>/relationUtils
-    .. image:: https://readthedocs.org/projects/relationUtils/badge/?version=latest
-        :alt: ReadTheDocs
-        :target: https://relationUtils.readthedocs.io/en/stable/
-    .. image:: https://img.shields.io/coveralls/github/<USER>/relationUtils/main.svg
-        :alt: Coveralls
-        :target: https://coveralls.io/r/<USER>/relationUtils
-    .. image:: https://img.shields.io/pypi/v/relationUtils.svg
-        :alt: PyPI-Server
-        :target: https://pypi.org/project/relationUtils/
-    .. image:: https://img.shields.io/conda/vn/conda-forge/relationUtils.svg
-        :alt: Conda-Forge
-        :target: https://anaconda.org/conda-forge/relationUtils
-    .. image:: https://pepy.tech/badge/relationUtils/month
-        :alt: Monthly Downloads
-        :target: https://pepy.tech/project/relationUtils
-    .. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter
-        :alt: Twitter
-        :target: https://twitter.com/relationUtils
+        :target: https://cirrus-ci.com/github/Cetrei/relationUtils
+
 
 .. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
     :alt: Project generated with PyScaffold
@@ -34,10 +17,11 @@ relationUtils
 =============
 
 
-    Add a short description here!
+    Relation Utils is a Python package that provides utilities for academic environments.
+    It includes some functions for manipulating and analyzing relations and their properties.
+    The package is designed to be easy to use.
+    It also includes graph, matrix and tree utilities for manipulating and analyzing relations and their properties.
 
-
-A longer description of your project goes here...
 
 
 .. _pyscaffold-notes:

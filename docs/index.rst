@@ -2,11 +2,6 @@
 relationUtils
 =============
 
-This is the documentation of **relationUtils**.
-
-.. note::
-
-
 Contents
 ========
 

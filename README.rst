@@ -15,12 +15,11 @@
 =============
 relationUtils
 =============
-
-
     Relation Utils is a Python package that provides utilities for academic environments.
-    It includes some functions for manipulating and analyzing relations and their properties.
-    The package is designed to be easy to use.
-    It also includes graph, matrix and tree utilities for manipulating and analyzing relations and their properties.
+    
+It includes some functions for manipulating and analyzing relations and their properties.
+The package is designed to be easy to use.
+It also includes graph, matrix and tree utilities for manipulating and analyzing relations and their properties.
 
 
 

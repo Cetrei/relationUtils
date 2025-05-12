@@ -21,7 +21,7 @@ It includes some functions for manipulating and analyzing relations and their pr
 The package is designed to be easy to use.
 It also includes graph, matrix and tree utilities for manipulating and analyzing relations and their properties.
 
-
+Docs: https://cetrei.github.io/relationUtils/
 
 .. _pyscaffold-notes:
 
